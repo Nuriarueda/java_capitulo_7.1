@@ -15,6 +15,6 @@ public class Ejercicio_1 {
         n[9]=120;
 
         System.out.println("Los valores del array son: ");
-        System.out.print(n[0] + ", " + n[1] + ", " + n[3] + ", " + n[4] + ", " + n[5] + ", " + n[6] + ".");
+        System.out.print(n[0] + ", " + n[1] + ", " + n[4] + ", " + n[6] + ", " + n[8] + ", " + n[9] + ".");
     }
 }
