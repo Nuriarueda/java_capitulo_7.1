@@ -8,7 +8,6 @@ public class Ejercicio_6_bidimensionales {
         int columna;
         boolean repetido;
         int i;
-        int j;
         for(fila = 0; fila < 6; fila++) {
             for(columna = 0; columna < 10; columna++) {
                 do {
