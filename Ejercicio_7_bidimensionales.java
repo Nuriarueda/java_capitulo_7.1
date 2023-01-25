@@ -1,3 +1,5 @@
+/*Ejercicio 7 bidimensionales*/
+
 public class Ejercicio_7_bidimensionales {
     static final int VACIO = 0;
     static final int MINA = 1;
